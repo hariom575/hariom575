@@ -4,7 +4,7 @@
 # 👨🏻‍💻  About Me
  🎓  I'm currently studying Information Technology Engineering at Shri Govindram Seksariya Institute of Technology and science.  
  💡 Some technologies I enjoy working witch include Django,JavaScript,HTML,CSS,Ajax,Jquery,Bootstrap. 
-I have greate interest in competitive coding
+I have great interest in competitive coding.
  ✨ I'm on track for learning more about Web Development and Algorithms.  
  ✉️ You can shoot me an email at mewadahariom2000@gmail.com! I'll try to respond as soon as I can.    
  
