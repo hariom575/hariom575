@@ -2,10 +2,9 @@
 
 
 # 👨🏻‍💻  About Me
- 🎓  I'm currently studying Information Technology Engineering at Shri Govindram Seksariya Institute of Technology and science.  
- 💡 Some technologies I enjoy working witch include Django,JavaScript,HTML,CSS,Ajax,Jquery,Bootstrap. 
-I have great interest in competitive coding.
- ✨ I'm on track for learning more about Web Development and Algorithms.  
+ 🎓  I'm currently studying M.S. by Research in Computer Science at IIT Bombay.
+ 💡I have Done my Bechlor's in Information Technology from Shri GovindRam Seksariya Institute of Tech. and Science Indore (M.P.)
+ ✨ I'm on track for learning more about Computing Sytems. 
  ✉️ You can shoot me an email at mewadahariom2000@gmail.com! I'll try to respond as soon as I can.    
  
  
