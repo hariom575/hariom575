@@ -12,5 +12,5 @@
 
 - struggling on [Codeforces](https://codeforces.com/profile/Harry__9522)
 - practicing on [Leetcode](https://leetcode.com/mewadahariom2000/)
-- Struggled on [Codechef](https://www.codechef.com/users/harry____9522)
+- Challenging myself on [Codechef](https://www.codechef.com/users/harry____9522)
 - social handle [Linkedin](https://www.linkedin.com/in/hariom-mewada-799207193/)
