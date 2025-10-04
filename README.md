@@ -4,7 +4,7 @@
 # 👨🏻‍💻  About Me
  🎓  I'm currently studying M.S. by Research in Computer Science at IIT Bombay.
  💡I have done my bechlor's in Information Technology from Shri Govindram Seksariya Institute of Tech. and Science Indore (M.P.)
- ✨ I'm on track for learning more about Computing Systems .
+ ✨ I'm on track for learning more about Computing Systems and the complex world.
  ✉️ You can shoot me an email at mewadahariom2000@gmail.com! I'll try to respond as soon as I can.    
  
  
