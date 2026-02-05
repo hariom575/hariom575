@@ -15,4 +15,4 @@
 - Challenging myself on [Codechef](https://www.codechef.com/users/harry____9522)
 - social handle [Linkedin](https://www.linkedin.com/in/hariom-mewada-799207193/)
 
-I am very interseted in the Idea of psychohisoty & foundation.
+I am very interseted in the Idea of psychohistory & foundation.
